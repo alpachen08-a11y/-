@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(226, 101, 122);
+}
+
+h1 {
+    color:rgb(250, 248, 248);
+}
+#txtus {
+    text-align: center;
+}
+#i1 {
+    position:relative; left: 50px;
+}
+#i2 {
+    position:relative; left: 50px;
+}
+#i3 {
+    position:relative; left: 50px;
+}
+#i4 {
+    position: relative;left: 655px;
+}
+h1{
+    text-align: center;
+}
